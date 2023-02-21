@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lora', serif;
+}
+div{
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3,h4{
+    margin:0px;
+    padding: 0px;
+}
+p{
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+a:hover{
+    cursor:pointer;
+}
+#imgSegConceito{
+    width: 50%;
+    
+}
+#imgAmeaca{
+    width: 10%;
+    
+}
+#topicos{
+    height: 200px;
+}
+.paragrafos{
+    text-align: justify;
+    text-indent: 30px;
+}
